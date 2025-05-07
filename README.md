@@ -4,7 +4,7 @@
 
  COVID-19 é um site totalmente responsivo sobre o Corona, <br />Responsivo para todos os dispositivos, criado usando HTML, CSS e JavaScript.
 
-  <a href="https://"><strong>➥ Live Demo</strong></a>
+  <a href="https://covid-19-ochre.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
 <br />
